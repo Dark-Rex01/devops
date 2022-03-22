@@ -1,3 +1,3 @@
 # devops
-## Hello world!!!
+## Hello world
 ## hello devops!!!
